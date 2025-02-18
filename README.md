@@ -2,11 +2,8 @@
 I will share the AI tool learning resource, such as coze learning,deepseek learning,grok,kimi,openai gpt.
 
 # Index
-[DeepSeek](#section_DeepSeek)
-
-[Contributor](#section_Contributor)
-
-[Contributor](#section_Contributor)
+[DeepSeek](#section_DeepSeek)  
+[Contributor](#section_Contributor)  
 
 
 <a name="section_DeepSeek"></a>
