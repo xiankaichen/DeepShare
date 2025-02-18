@@ -23,7 +23,6 @@ I will share the AI tool learning resource, such as coze learning,deepseek learn
 ### PPT
 DeepSeek+Kimi to create ppt 
 
-
 <a name="section_Contributor"></a>
 
 # Contributor
